@@ -1,7 +1,7 @@
 // create enum's
 const PLAYER_MOVEMENTS = {
   x: 160,
-  y: 300,
+  y: 200,
 };
 
 const SHAPE_DELAY = 3000;
